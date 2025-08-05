@@ -59,3 +59,7 @@
 - **Data augmentation** improved generalization to unseen polygon sizes/orientations.
 - **Monitoring both reconstruction loss and semantic metrics** (like mean color accuracy) was essential for debugging.
 - Even simple shapes benefit from robust conditioning mechanisms when the output is strongly dependent on a non-visual input (color name).
+
+## Links
+- **Wandb Run** - https://wandb.ai/anunay6827-mahindra-university/dual-unet-polygons?nw=nwuseranunay6827
+- **Model Link** - https://drive.google.com/file/d/1uWWEQTBkTYidgGIkg28FNJysYiTOXAXQ/view?usp=sharing
